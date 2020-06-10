@@ -1,0 +1,43 @@
+.new_coursewrap{
+	margin-top: 40px;
+	margin-left:260px ;
+	border: #2E3741;
+	 border: 1px solid gainsboro;
+	 width: 75%;
+}
+.down_courselevel{
+	
+	    
+}
+.course_title {
+	  display: flex;
+	    flex-flow: row wrap;
+	    align-content:space-around;
+		margin: 18px;
+}
+.ul
+{
+    list-style-type: none;
+    padding:0px;
+    margin: 0px;
+}
+.directory
+{
+	float: right;
+    background-image: url(sqpurple.gif);
+    padding-left: 35px; 
+	color: #A9A9A9;
+	
+}
+.carousel-inner{
+    margin-top:100px ;
+	display: contents;
+	width:100%;
+	
+}
+.carousel{
+	width: 75%;
+	margin-left: 260px;
+
+	
+}

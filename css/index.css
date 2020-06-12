@@ -3,13 +3,22 @@ body{
 	margin: 0 auto;
 }
 
+/* head单独设计 */
+.header-bg-dark{
+	background-color: #FFFFFF;
+	box-shadow: none;
+}
+.nav-list.pull-right1 li a{
+	font-size: 16px;
+	color: #333333;
+}
 
 /* incontroller1 */
 .incontroller1{
 	width: 100%;
 	height: 640px;
 	margin:  0 auto;
-	margin-top: 50px;
+	margin-top: 5px;
 	/* background: #0000FF; */
 }
 #carousel-example-generic{

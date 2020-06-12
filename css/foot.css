@@ -1,0 +1,133 @@
+.footer{
+	margin: 0 auto;
+	margin-top: 0px;
+	width: 100%;
+	height: 312px;
+	background-color: #fafafa;
+	border-top: 1px solid #e4e4e4;
+}
+ul,li,ol{
+	list-style: none;
+}
+.footer_up{
+	width: 1260px;
+	height: 251px;
+	margin:  0 auto;
+	/* background-color: saddlebrown; */
+}
+.footerupmiddle{
+	width: 100%;
+	height: 100%;
+	/* background-color: cadetblue; */
+	display: flex;
+}
+.footerbigul{
+	display: flex;
+	padding: 0;
+	margin: 0;
+	padding: 45px 10px;
+}
+
+.footerbigli.li1{
+	margin-left: 120px;
+}
+.footersmallul{
+	padding: 0;
+	margin: 0;
+	margin-top: 10px;
+}
+.footersmallul li{
+	font-size: 12px;
+	color: #666666;
+	padding-top: 15px;
+}
+.footersmallul li:hover{
+	cursor: pointer;
+	color: #FF6700;
+}
+.footerum_right{
+	width: 320px;
+	height: 154px;
+	margin-top: 40px;
+	margin-left: 120px;
+	/* background-color: white; */
+	border-left: 1px #E0E0E0 solid;
+}
+.fmbigul{
+	font-size: 15px;
+	color: #333333;
+}
+.footerum_right h1{
+	font-size: 40px;
+	margin: 0;
+	padding: 0;
+	margin-left: 40px;
+}
+.footerum_right div{
+	font-size: 12px;
+	color: #999999;
+}
+.footerumr1{
+	margin-top: 10px;
+	margin-left: 60px;
+}
+.footerumr2{
+	margin-top: 3px;
+	margin-left: 75px;
+}
+.footerumr3{
+	margin-top: 3px;
+	margin-left: 80px;
+}
+.footerumrbutton{
+	margin-top: 10px;
+	margin-left: 145px;
+	cursor: pointer;
+	padding: 0;
+	padding-left: 30px;
+	width: 128px;
+	height: 34px;
+	line-height: 32px;
+	text-align: center;
+	background: url(http://www.yxt.com/content/yxtweb/images/footer/btn_contact.png) center;
+}
+.footerumrbutton span{
+	color: #1479de;
+	font-size: 14px;
+}
+.footerumrbutton:hover span{
+	color: #FF6700;
+}
+
+.footer_down{
+	width: 100%;
+	height: 60px;
+	background-color: #F0F0F0;
+}
+.footerdown_middle{
+	width: 1260px;
+	height: 100%;
+	/* background-color: aqua; */
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+}
+.footerdown_middle p{
+	line-height: 60px;
+	font-size: 12px;
+	color: #666666;
+}
+.footerdown_middle a{
+	line-height: 60px;
+	font-size: 12px;
+	color: #666666;
+	margin-left: 170px;
+}
+.footerdown_middle a:hover{
+	color: #FF6700;
+}
+.footerdown_middle img{
+	width: 47px;
+	height: 60px;
+	margin-left: 20px;
+}

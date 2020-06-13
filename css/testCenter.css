@@ -1,0 +1,146 @@
+
+#img1{
+	width: 100%;
+	height: 350px;
+	background:url(../img/8395.jpg_wh1200.jpg);
+}
+
+#dibu{
+	margin-top: 25px;
+	font-size: 20px;
+}
+
+#yzc{
+	font-size: 50px;
+	font-family: "curlz mt";
+	width: 100%;
+	height: 170px;
+	text-align: center;
+	line-height: 150px;
+}
+
+.yun{
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 180px;
+	background-color: #F2F5F7;
+	line-height: 60px;
+}
+
+.yunimg{
+	margin-right: 30px;
+	float: left !important;
+	display: inline-block;
+	width: 90px;
+	height: 170px;
+	background: url(../img/yun.jpg);
+}
+.yun-font{
+	font-size: 30px;
+	font-weight: bold;
+}
+.mt{
+	margin-right: 120px;
+	text-align: right;
+}
+
+.yunimg2{
+
+	float: right !important;
+	display: inline-block;
+	width: 90px;
+	height: 170px;
+	background: url(../img/yun.jpg);
+}
+
+.jumbotron{
+	font-size: 50px;
+	color: white;
+	margin-top: 100px;
+	height: 600px;
+	text-align: center;
+	background: url(../img/深灰色.jpg);
+}
+
+.jumbotron li{
+	margin-top: 30px;
+	list-style-type: none;
+	font-size: 30px;
+}
+.jumbotron li a{
+	color: white;
+}
+.jumbotron p{
+	margin-top: 30px;
+}
+
+.our{
+	margin-top: 70px;
+	margin-bottom: 30px;
+	font-size: 50px;
+	font-family: "book antiqua";
+	text-align: center;
+}
+.colocmt2{
+	color: white;
+}
+
+.youshi{
+	margin-top: 30px;
+	height: 500px;
+	background: url(../img/模糊图.jpg);
+}
+#right-1{
+	margin-left: 80px;
+}
+
+.font-font{
+	font-size: 20px;
+	color: white;
+	width: 420px;
+}
+
+
+
+
+.font-mt1{
+	font-size: 20px;
+	height: 80px;
+	width: 250px;
+	color: white;
+	text-align: center;
+	line-height: 80px;
+}
+.font-mt2{
+	font-size: 15px;
+	height: 240px;
+	width: 250px;
+	color: black;
+	text-align: center;
+	line-height: 30px;
+}
+.font-mt3{
+	font-size: 15px;
+	height: 40px;
+	width: 250px;
+	color: indianred;
+	text-align: center;
+	line-height: 40px;
+}
+.coloc-mt1{
+	background-color: #CD5C5C;
+}
+.coloc-mt2{
+	background-color: white;
+}
+.coloc-mt3{
+	background-color: lightpink;
+}
+
+.coloc-mt11{
+	background-color: green;
+}
+.coloc-mt33{
+	background-color: chartreuse;
+}

@@ -1,0 +1,304 @@
+body{
+	width: 100%;
+	margin: 0 auto;
+}
+.innercontroller1{
+	margin-top: 80px;
+	width: 100%;
+	height: 370px;
+	background-color: #F5F5F5;
+}
+.incon1_middle{
+	width: 1260px;
+	height: 100%;
+	margin: 0 auto;
+	/* background-color: #F0AD4E; */
+	display: flex;
+	flex-direction: row;
+}
+.incon1mi_left{
+	width: 46%;
+	height: 90%;
+	/* background-color: chartreuse; */
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.incon1mi_right{
+	width: 50%;
+	height: 90%;
+	/* background-color: salmon; */
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.incon1mi_right h1{
+	font-size: 24px;
+	color: #000000;
+}
+.inc1mr_middle{
+	width: 100%;
+	height: 25px;
+	margin-top: 25px;
+}
+.daoshi{
+	font-size: 16px;
+	color: #999999;
+}
+.daoshi a{
+	font-size: 16px;
+	color: #333333;
+}
+.daoshi a:hover{
+	color: #FF6700;
+}
+.kaike{
+	width: 100%;
+	height: 25px;
+	margin-top: 10px;
+}
+.kaike span{
+	font-size: 16px;
+	color: #999999;
+}
+#kaikeshijian,#kaikedidian{
+	color: #B07C66;
+}
+.kaikedidian{
+	margin-left: 50px;
+}
+.kcjieshao{
+	width: 100%;
+	height: 80px;
+	background-color: #f9f9f9;
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.kcjieshao p{
+	font-size: 15px;
+	color: #999999;
+	line-height: 25px;
+}
+.zixun{
+	width: 100%;
+	height: 78px;
+	margin-top: 30px;
+	/* background-color: #0000FF; */
+}
+.zixun a{
+	display: flex;
+	width: 200px;
+	font-size: 16px;
+	color: white;
+	text-decoration: none;
+}
+.zixun img{
+	width: 75px;
+	height: 68px;
+	z-index: 2;
+}
+.zixun div{
+	width: 180px;
+	height: 45px;
+	line-height: 45px;
+	background-color: #f60;
+	border-radius: 3px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: -35px;
+}
+
+.innercontroller2{
+	width: 1260px;
+	height: 300px;
+	/* background-color: aqua; */
+	margin: 0 auto;
+	margin-top: 40px;
+	border-top: 1px solid #dcdcdc;
+	background: url(http://www.yxt.com/Content/images/ypay/studymode.png) center 35px no-repeat;
+}
+.o2o{
+	width: 200px;
+	height: 30px;
+	font-size: 22px;
+	color: #000000;
+	margin-left: 540px;
+	margin-top: -15px;
+	background-color: white;
+	text-align: center;
+}
+.moshijieshao{
+	width: 1200px;
+	height: 80px;
+	/* background-color: antiquewhite; */
+	margin: 0 auto;
+	margin-top: 160px;
+	display: flex;
+	flex-direction: row;
+}
+.jieshao{
+	width: 20%;
+	height: 100%;
+	/* background-color: darkblue; */
+	text-align: center;
+}
+.jieshao h1{
+	margin: 0;
+	font-size: 22px;
+	color: #333333;
+	margin-top: 15px;
+}
+.jieshao p{
+	margin-top: 10px;
+}
+
+.innercontroller3{
+	width: 1260px;
+	/* height: 500px; */
+	margin: 0 auto;
+	border: 1px solid #e4e4e4;
+}
+.incro3_jieshao{
+	width: 100%;
+	height: 60px;
+	background-color: #F6F6F6;
+	border-bottom: 1px solid #e4e4e4;
+	display: flex;
+	flex-direction: row;
+}
+.kecheng{
+	width: 140px;
+	height: 100%;
+	/* background-color: #0000FF; */
+	cursor: pointer;
+	font-size: 20px;
+	color: #333333;
+	border-left: 1px solid #e4e4e4;
+	text-align: center;
+	padding-top: 15px;
+}
+#hangtiao{
+	background-color: #fff;
+	color: #188eee;
+	border-top: 2px solid #188eee;
+}
+.kcxiangxi{
+	width: 98%;
+	/* height: 100px; */
+	margin:  0 auto;
+	margin-top: 30px;
+	/* background-color: #0000FF; */
+}
+.kcxiangxi p{
+	color: #666666;
+	font-size: 16px;
+	line-height: 28px;
+	margin-top: 15px;
+}
+.teacourseico{
+    display: inline-block;
+    width: 24px;
+	height: 18px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 0px -177px;
+}
+
+.kcqianyan{
+	
+}
+.kctigang{
+	display: none;
+	opacity: 0;
+}
+.kcdaoshi{
+	display: none;
+	opacity: 0;
+}
+
+.kcqianyan div{
+	display: flex;
+	flex-direction: row;
+}
+.font-size-16{
+	color: #188EEE;
+	font-size: 16px;
+	padding-top: 4px;
+}
+.teacourseico1{
+    display: inline-block;
+    width: 24px;
+	height: 18px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 0px -243px;
+}
+.kcqyic{
+	margin-top: 30px;
+	display: flex;
+}
+.kcdaoshi h1{
+	font-size: 20px;
+	color: #666666;
+}
+
+.teacourseico2{
+    display: inline-block;
+    width: 24px;
+	height: 24px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 2px 0;
+}    
+.teacourseico3{
+    display: inline-block;
+    width: 24px;
+	height: 24px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 0px -39px;
+}
+.teacourseico4{
+    display: inline-block;
+    width: 24px;
+	height: 24px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 0px -72px;
+}
+.teacourseico5{
+    display: inline-block;
+    width: 24px;
+	height: 24px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 2px -109px;
+}
+.teacourseico6{
+    display: inline-block;
+    width: 24px;
+	height: 24px;
+	margin-top: 5px;
+	margin-left: 10px;
+    background: url(http://www.yxt.com/Content/images/ypay/teacourseico.png) no-repeat center;
+	background-position: 0px -144px;
+}
+.font-size-16.daoshi{
+	margin-left: 5px;
+	/* margin-top: 5px; */
+	font-size: 20px;
+}
+.font-size-16.daoshi.shizhan{
+	margin-top: -5px;
+	margin-left: 10px;
+}
+hr{
+	margin-top: 50px;
+}

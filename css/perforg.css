@@ -1,0 +1,139 @@
+
+.tielepic{
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.pt40{
+	padding-top: 40px;
+	width: 100%;
+	height: 630px;
+	background-color: #f3f3f3;
+	margin: 0 auto;
+	
+}
+.c_container{
+	/* width: 70%; */
+	margin:0 auto;
+	width: 1220px;
+	height: 500px;
+	margin: 0 auto;
+	
+}
+.select-jglist{
+	width: 1220px;
+	height: 500px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	
+	
+}
+
+.select-jglist ,.select-jglist li,.ph35,.ph35 li{
+	list-style: none;
+	padding: 0;
+	margin: 10px;
+	
+	
+}
+.select-jglist li{
+	margin: 40px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	width:592px ;
+	height: 240px;
+	background-color:#fff ;
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0 auto;
+}
+.clearfix1{
+	width:570px;
+	background-color: white;
+	
+	
+}
+.four-md-line{
+	width: 330px;
+	height: 100px;
+	font-size: 12px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.mr20{
+	font-size: 20px;
+	font-style: normal;
+	width: 100px;
+	height: 26px;
+}
+
+.pv20{
+	
+	padding-bottom: 20px;
+	background-color: #f3f3f3;
+	width: 100%;
+	height: 387px;
+	margin: 0 auto;
+	margin-left: 20px;
+}
+.pv40{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 1220px;
+	background-color: white;
+	margin: 0 auto;
+
+}
+.text-center{
+	height: 37px;
+	text-align: center;
+	font-size: 26px;
+}
+
+.ph35{
+	width: 1220px;
+	height: 240px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+}
+.ph35 img, .list-jgimg img{
+	max-width: 208px;
+	max-height: 98px;
+}
+.ph35 li{
+	display: table;
+	text-align: center;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 210px;
+	height: 100px;
+	border: solid 1px #eee ;
+}
+.jg-courselist{
+	
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	font-size: 14px;
+	width: 560px;
+	height: 76px;
+	border-top: solid 1px #eee;
+}
+.ellipsis{
+	
+	margin:10px;
+}
+.list-jgimg img{
+	border: solid 1px#eee;
+	width: 208px;
+	height: 97.5px;
+}

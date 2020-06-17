@@ -32,12 +32,12 @@
 .carousel-inner{
     margin-top:100px ;
 	display: contents;
-	width:100%;
+	width:80%;
 	
 }
 .carousel{
-	width: 80%;
-	margin-left: 209px;
+	width: 70%;
+	margin: 0 auto;
 
 	
 }
@@ -45,14 +45,16 @@
 
 /* 第二部分格式*/
 .tabcontent {
-	margin-top: 30px;
-    padding: 10px 12px 0 0;
+	
     min-height: 40px;
-	margin-left: 209px;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding: 10px 12px 0 0;
 }
 .list-inline{
-	width:90%;
+	width:70%;
 	border: solid 1px #E4E4E4;
+	margin: 0 auto;
 	
 }
 .diyige{
@@ -64,27 +66,56 @@
 .sort-bar {
     background: #F7F7F7;
     border: solid 1px #E4E4E4;
-	width: 80%;
-	margin-left: 200px;
-	height: 80px;
+	width: 70%;
+	height: 55px;
+	margin: 0 auto;
 }
 .navbar-nav{
 	margin-top: auto;
+	margin: 0 auto;
 }
 .searchleft{
 	float: right;
 	margin-top: 15px;
+	margin: 0 auto;
 
 }
 .btn-default{
-	width: 90px;
+	width: 60px;
+	margin: 0 auto;
 }
-.helfpage{
-	height: 960px;
-	background-color: wheat;
+#courseList{
+	height: 1704px;
 	width: 80%;
 	margin-left: 200px;
+	margin: 0 auto;
 }
-.pagination{
-	display:block ;
+.teacherlist li{
+	margin-top: 25px;
+	float: left;
+	margin-left:55px;
+	margin-bottom: 25px;
+	padding: 15px 30px;
+	width: 220px;
+	text-align: center;
+	background-color: #f7f7f7;
+	
+}
+.bule-tec{
+	left: 9px;
+	bottom: 17px;
+	display: inline-block;
+	padding-top: 7px;
+	width: 132px;
+	height: 28px;
+	line-height: 22px;
+	color: #fff;
+	background:url(http://www.yxt.com/Content/images/ypay/blue-tec.png) center no-repeat;
+}
+.one-line{
+	color: #999;
+}
+.font-size-16{
+	margin-top: 25px;
+	margin-bottom: 28px;
 }

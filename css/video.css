@@ -1,0 +1,149 @@
+body{
+	display: flex;
+}
+.videos{
+	width: 75%;
+	height: 100%;
+	/* background-color: silver; */
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+}
+.video{
+	width: 100%;
+	height: 100%;
+}
+.zhangjie{
+	position: absolute;
+	right: 0; 
+	top: 0;
+	bottom: 0;
+	border-left: 1px solid #e4e4e4;
+	width: 25%;
+}
+.zjxinxi a{
+	text-decoration: none;
+}
+.zjxinxi{
+	height: 100%;
+	width: 100%;
+	overflow-y:scroll;
+}
+.kechengming{
+	width: 100%;
+	height: 41px;
+	border-bottom: 1px solid #e4e4e4;
+	background-color: #f2f2f2;
+	line-height: 41px;
+	text-align: center;
+	font-size: 14px;
+	color: #333333;
+	font-weight: bold;
+}
+.zjxinxione{
+	width: 100%;
+}
+.zhangxinxi{
+	width: 90%;
+	height: 36px;
+	margin: 0 auto;
+	line-height: 36px;
+	background-color: #0000FF;
+	position: relative;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 22px 0 0;
+	background: url(http://www.yxt.com/Content/images/ypay/line.png) repeat-y 70px center;
+	font-size: 14px;
+	font-weight: bold;
+}
+.chaptertop {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    width: 53px;
+    text-align: center;
+}
+.ellipsis {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    word-wrap: normal;
+    word-break: normal;
+}
+
+.num.numtop {
+    position: absolute;
+    left: 60px;
+    top: 7px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    background: url(http://www.yxt.com/Content/images/ypay/point_top.png) #fff no-repeat center;
+}
+.sectiontop {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    width: 140px;
+    margin-left: 38px;
+}
+.jiexinxi{
+	width: 90%;
+	margin: 0 auto;
+	cursor: pointer;
+	position: relative;
+	height: 36px;
+	line-height: 36px;
+	background: url(http://www.yxt.com/Content/images/ypay/line.png) repeat-y 70px center;
+
+}
+.jiexinxi a{
+	color: #333;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	font-size: 12px;
+}
+.chapter {
+    display: inline-block;
+    padding-left: 10px;
+    width: 53px;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+}
+.chapter i {
+    font-style: normal;
+    margin-left: -3px;
+}
+.num {
+    position: absolute;
+    top: 11px;
+    left: 63px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: url(http://www.yxt.com/Content/images/ypay/point_small.png) #fff no-repeat center;
+}
+#num{
+    background: url(http://www.yxt.com/Content/images/ypay/point_select.png) no-repeat center;
+}
+#xvanzhong{
+	color: #666;
+	background-color: #f2f2f2;
+}
+#num1{
+    background: url(http://www.yxt.com/Content/images/ypay/point_select.png) no-repeat center;
+}
+#xvanzhong1{
+	color: #666;
+	background-color: #f2f2f2;
+}
+.section {
+    width: 162px;
+    display: inline-block;
+    margin-left: 38px;
+}
